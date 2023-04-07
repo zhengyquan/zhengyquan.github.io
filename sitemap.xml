@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zyq.com/friends/index.html</loc>
+    <loc>https://zhengyquan.github.io/friends/index.html</loc>
     
     <lastmod>2023-04-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://zyq.com/contact/index.html</loc>
+    <loc>https://zhengyquan.github.io/contact/index.html</loc>
     
     <lastmod>2023-04-07</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://zyq.com/about/index.html</loc>
+    <loc>https://zhengyquan.github.io/about/index.html</loc>
     
     <lastmod>2023-04-07</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://zyq.com/tags/index.html</loc>
+    <loc>https://zhengyquan.github.io/tags/index.html</loc>
     
     <lastmod>2023-04-07</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://zyq.com/categories/index.html</loc>
+    <loc>https://zhengyquan.github.io/categories/index.html</loc>
     
     <lastmod>2023-04-07</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://zyq.com/2023/04/07/hello-world/</loc>
+    <loc>https://zhengyquan.github.io/2023/04/07/hello-world/</loc>
     
     <lastmod>2023-04-07</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://zyq.com/</loc>
+    <loc>https://zhengyquan.github.io/</loc>
     <lastmod>2023-04-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

@@ -1,7 +1,7 @@
-http://zyq.com/friends/index.html
-http://zyq.com/contact/index.html
-http://zyq.com/about/index.html
-http://zyq.com/tags/index.html
-http://zyq.com/categories/index.html
-http://zyq.com/2023/04/07/hello-world/
-http://zyq.com/
+https://zhengyquan.github.io/friends/index.html
+https://zhengyquan.github.io/contact/index.html
+https://zhengyquan.github.io/about/index.html
+https://zhengyquan.github.io/tags/index.html
+https://zhengyquan.github.io/categories/index.html
+https://zhengyquan.github.io/2023/04/07/hello-world/
+https://zhengyquan.github.io/
