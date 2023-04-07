@@ -1,3 +1,6 @@
+http://zyq.com/friends/index.html
+http://zyq.com/contact/index.html
+http://zyq.com/about/index.html
 http://zyq.com/tags/index.html
 http://zyq.com/categories/index.html
 http://zyq.com/2023/04/07/hello-world/
