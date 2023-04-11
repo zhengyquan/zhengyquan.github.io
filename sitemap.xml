@@ -2,7 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhengyquan.github.io/about/index.html</loc>
+    
+    <lastmod>2023-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhengyquan.github.io/comment/index.html</loc>
+    
+    <lastmod>2023-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhengyquan.github.io/links/index.html</loc>
+    
+    <lastmod>2023-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhengyquan.github.io/movies/index.html</loc>
+    
+    <lastmod>2023-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhengyquan.github.io/artitalk/index.html</loc>
+    
+    <lastmod>2023-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhengyquan.github.io/music/index.html</loc>
+    
+    <lastmod>2023-04-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhengyquan.github.io/gallery/index.html</loc>
     
     <lastmod>2023-04-11</lastmod>
     
@@ -21,15 +75,6 @@
   
   <url>
     <loc>https://zhengyquan.github.io/gallery/%E5%A3%81%E7%BA%B8/index.html</loc>
-    
-    <lastmod>2023-04-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhengyquan.github.io/gallery/index.html</loc>
     
     <lastmod>2023-04-11</lastmod>
     
@@ -65,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://zhengyquan.github.io/shuoshuo/index.html</loc>
-    
-    <lastmod>2023-04-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zhengyquan.github.io/friends/index.html</loc>
     
     <lastmod>2023-04-07</lastmod>
@@ -84,15 +120,6 @@
   
   <url>
     <loc>https://zhengyquan.github.io/contact/index.html</loc>
-    
-    <lastmod>2023-04-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhengyquan.github.io/about/index.html</loc>
     
     <lastmod>2023-04-07</lastmod>
     
