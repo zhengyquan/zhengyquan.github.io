@@ -6,7 +6,7 @@
   <link href="https://zhengyquan.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhengyquan.github.io/"/>
-  <updated>2023-04-07T06:54:01.691Z</updated>
+  <updated>2023-04-10T15:55:15.503Z</updated>
   <id>https://zhengyquan.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>序言</title>
+    <link href="https://zhengyquan.github.io/2023/04/10/%E5%BA%8F%E8%A8%80/"/>
+    <id>https://zhengyquan.github.io/2023/04/10/%E5%BA%8F%E8%A8%80/</id>
+    <published>2023-04-10T15:52:50.000Z</published>
+    <updated>2023-04-10T15:55:15.503Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我的第一篇博客</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是我的第一篇博客&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
