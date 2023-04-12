@@ -1,9 +1,9 @@
+https://zhengyquan.github.io/music/index.html
+https://zhengyquan.github.io/artitalk/index.html
 https://zhengyquan.github.io/about/index.html
 https://zhengyquan.github.io/comment/index.html
 https://zhengyquan.github.io/links/index.html
 https://zhengyquan.github.io/movies/index.html
-https://zhengyquan.github.io/artitalk/index.html
-https://zhengyquan.github.io/music/index.html
 https://zhengyquan.github.io/gallery/index.html
 https://zhengyquan.github.io/gallery/%E9%A3%8E%E6%99%AF/index.html
 https://zhengyquan.github.io/gallery/%E5%A3%81%E7%BA%B8/index.html
