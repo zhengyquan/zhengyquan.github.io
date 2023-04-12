@@ -20,6 +20,24 @@
   </url>
   
   <url>
+    <loc>https://zhengyquan.github.io/movies/index.html</loc>
+    
+    <lastmod>2023-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhengyquan.github.io/books/index.html</loc>
+    
+    <lastmod>2023-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhengyquan.github.io/categories/index.html</loc>
     
     <lastmod>2023-04-12</lastmod>
@@ -57,15 +75,6 @@
   
   <url>
     <loc>https://zhengyquan.github.io/comment/index.html</loc>
-    
-    <lastmod>2023-04-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhengyquan.github.io/movies/index.html</loc>
     
     <lastmod>2023-04-11</lastmod>
     
