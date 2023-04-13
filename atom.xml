@@ -6,7 +6,7 @@
   <link href="https://zhengyquan.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhengyquan.github.io/"/>
-  <updated>2023-04-13T05:00:19.804Z</updated>
+  <updated>2023-04-13T15:59:52.134Z</updated>
   <id>https://zhengyquan.github.io/</id>
   
   <author>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>关于我的博客</title>
-    <link href="https://zhengyquan.github.io/2023/04/10/%E5%BA%8F%E8%A8%80/"/>
-    <id>https://zhengyquan.github.io/2023/04/10/%E5%BA%8F%E8%A8%80/</id>
+    <link href="https://zhengyquan.github.io/2023/04/10/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://zhengyquan.github.io/2023/04/10/%E5%85%B3%E4%BA%8E%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-04-10T15:52:50.000Z</published>
-    <updated>2023-04-13T05:00:19.804Z</updated>
+    <updated>2023-04-13T15:59:52.134Z</updated>
     
-    <content type="html"><![CDATA[<p>2023年4月7日13:45:27，d盘Blog文件夹创建的时间，同时也宣告我的博客正式开始搭建。关于搭建的流程，网上有很多详细教程，这里不再赘述。至于为什么选择hexo框架，一是简单，二是页面优美而且功能其全，三是用户多，网上容易找教程…..</p><h3 id="记录当时"><a href="#记录当时" class="headerlink" title="记录当时"></a>记录当时</h3><p>关于我的简述，可以去我的博客<a href="https://zhengyquan.github.io/about/">关于笔者</a>了解。当时刚过完清明，是一个平常的周五下午，也没有课，就开始折腾起自己的博客来。整个过程从安装部署到搭建启动，花了将近两个小时(启动时出了点小bug浪费了一些时间)，然后就是跟着网上大佬们的教程进行一系列的魔改和优化。直到现在，还在持续优化中……</p><h3 id="博客的好处"><a href="#博客的好处" class="headerlink" title="博客的好处"></a>博客的好处</h3><p>我认为有以下几点好处</p><ul><li><strong>记录思路，总结错误</strong><ul><li>相信这是很多人写博客的主要目的，灵感来了，便会思如泉涌。对于码农来说，人生就是改不完的bug，那如何尽可能避免呢？就需要及时记录当时的思路和错误。</li></ul></li><li><strong>温故知新，强化学习</strong><ul><li>编程之路，道阻且长，定期复习和总结是非常重要的。</li></ul></li><li><strong>知识体系，随取随用</strong><ul><li>形成自己的知识库，下次遇到了直接<em>拿来吧你！</em></li></ul></li><li><strong>见证学习，督促进步</strong><ul><li>督促自我、见证成长、共同进步。</li></ul></li><li><strong>分享交友，扩大圈子</strong><ul><li>分享知识，助人利己，扩展人脉。</li></ul></li></ul><h3 id="未来计划"><a href="#未来计划" class="headerlink" title="未来计划"></a>未来计划</h3><p>现在来谈谈我对未来的计划</p><ul><li><strong>分清主次，不本末倒置</strong><ul><li>继续做项目，学习新的技术栈是主，更新博客作品是次。只有学的越多，学的越深，才有可能写出好的博客。</li><li>不是为了写博客而去写博客，而是追求质量，打造精品。</li></ul></li></ul><p>个人微信公众号: <strong>山里有个小木屋</strong>，文章持续更新中，欢迎大家关注，谢谢！</p>]]></content>
+    <content type="html"><![CDATA[<p>2023年4月7日13:45:27，是我d盘Blog文件夹创建的时间，同时也宣告我的博客正式开始搭建。关于搭建的流程，网上有很多详细教程，这里不再赘述。至于为什么选择hexo框架，一是简单，二是页面优美且功能齐全，三是用户多，网上容易找教程…..</p><h2 id="记录当时"><a href="#记录当时" class="headerlink" title="记录当时"></a>记录当时</h2><p>关于我的简述，可以去我的博客<a href="https://zhengyquan.github.io/about/">关于笔者</a>了解。当时刚过完清明，是一个平常的周五下午，也没有课，就开始折腾起自己的博客来。至于为什么想要搭建博客，我的想法和大多数人一样：想要有一个自己的网站，可以记录，可以见证……整个过程从安装部署到搭建启动，花了将近两个小时(启动时出了点小bug浪费了一些时间)，然后就是跟着网上大佬们的教程进行一系列的魔改和优化。直到现在，还在持续优化中……</p><h2 id="博客的好处"><a href="#博客的好处" class="headerlink" title="博客的好处"></a>博客的好处</h2><p>我认为有以下几点好处：</p><ul><li><strong>记录思路，总结错误</strong><ul><li>相信这是很多人写博客的主要目的，灵感来了，便会思如泉涌。对于码农来说，人生就是改不完的bug，那如何尽可能避免呢？就需要及时记录当时的思路和错误。</li></ul></li><li><strong>温故知新，强化学习</strong><ul><li>编程之路，道阻且长，温故知新，强化学习。</li></ul></li><li><strong>知识体系，随取随用</strong><ul><li>形成自己的知识库，下次遇到了直接拿来吧你！</li></ul></li><li><strong>见证学习，督促进步</strong><ul><li>督促自我、见证成长、不断进步。很多技术大牛都是从小白一步步成长起来的。</li></ul></li><li><strong>分享交友，扩大圈子</strong><ul><li>分享知识，助人利己，扩展人脉。</li></ul></li></ul><h2 id="未来短期规划"><a href="#未来短期规划" class="headerlink" title="未来短期规划"></a>未来短期规划</h2><p>现在来简单谈谈我对自己未来的规划：</p><ul><li><strong>分清主次，不本末倒置</strong><ul><li>继续做java项目，学习新的技术栈是主，更新博客文章是辅。只有学的越多，学的越深，才有可能写出好的博客。</li><li>不是为了写博客而去写博客，而是追求质量，打造精品。</li><li>继续优化博客，满足体验，不求最好，但求更好。</li></ul></li><li><strong>形成一套自己的技术栈</strong><ul><li>通过做项目，整理出核心前沿且实用的开发技术栈，以后做其他项目用到时直接取用。</li></ul></li><li><strong>准备暑期的面试实习</strong><br>因为我是24届毕业生，所以有必要在今年暑期争取实习。根据我目前的进度，个人计划在4月底完成那两个还在进行中的SSM项目，5月底学完微服务，再做一个项目，然后准备面经(java基础、并发、JVM、算法…)和制作简历，六月多开始投递简历(如果那时候微服务项目还没完成，继续做，要重视基础部分的强化学习，因为基础对于实习生而言重中之重)。同时我也会在业余时间更新文章和博客，完善自己的知识库，最后与大家共勉！<br><img src="https://gss0.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/ca1349540923dd54df718505d309b3de9c824858.jpg"><br>文末附上个人公众号: <strong>山里有个小木屋</strong><br><img src="https://i.postimg.cc/rpxpwScc/image.jpg"><br>文章持续更新中，感谢大家的关注支持！</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;2023年4月7日13:45:27，d盘Blog文件夹创建的时间，同时也宣告我的博客正式开始搭建。关于搭建的流程，网上有很多详细教程，这里不再赘述。至于为什么选择hexo框架，一是简单，二是页面优美而且功能其全，三是用户多，网上容易找教程…..&lt;/p&gt;
-&lt;h3 id=&quot;记录</summary>
+    <summary type="html">&lt;p&gt;2023年4月7日13:45:27，是我d盘Blog文件夹创建的时间，同时也宣告我的博客正式开始搭建。关于搭建的流程，网上有很多详细教程，这里不再赘述。至于为什么选择hexo框架，一是简单，二是页面优美且功能齐全，三是用户多，网上容易找教程…..&lt;/p&gt;
+&lt;h2 id=&quot;记</summary>
       
     
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>快速开始</title>
-    <link href="https://zhengyquan.github.io/2023/04/07/hello-world/"/>
-    <id>https://zhengyquan.github.io/2023/04/07/hello-world/</id>
+    <link href="https://zhengyquan.github.io/2023/04/07/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/"/>
+    <id>https://zhengyquan.github.io/2023/04/07/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/</id>
     <published>2023-04-07T06:54:01.691Z</published>
     <updated>2023-04-13T05:00:10.377Z</updated>
     
