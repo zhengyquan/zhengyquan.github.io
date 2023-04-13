@@ -1,3 +1,5 @@
+https://zhengyquan.github.io/2023/04/10/%E5%BA%8F%E8%A8%80/
+https://zhengyquan.github.io/2023/04/07/hello-world/
 https://zhengyquan.github.io/music/index.html
 https://zhengyquan.github.io/link/index.html
 https://zhengyquan.github.io/movies/index.html
@@ -10,8 +12,11 @@ https://zhengyquan.github.io/comment/index.html
 https://zhengyquan.github.io/gallery/index.html
 https://zhengyquan.github.io/gallery/%E9%A3%8E%E6%99%AF/index.html
 https://zhengyquan.github.io/gallery/%E5%A3%81%E7%BA%B8/index.html
-https://zhengyquan.github.io/2023/04/10/%E5%BA%8F%E8%A8%80/
 https://zhengyquan.github.io/friends/index.html
 https://zhengyquan.github.io/contact/index.html
-https://zhengyquan.github.io/2023/04/07/hello-world/
 https://zhengyquan.github.io/
+https://zhengyquan.github.io/tags/hexo/
+https://zhengyquan.github.io/tags/%E9%9A%8F%E7%AC%94/
+https://zhengyquan.github.io/tags/%E8%AE%B0%E5%BD%95/
+https://zhengyquan.github.io/categories/hexo/
+https://zhengyquan.github.io/categories/%E9%9A%8F%E7%AC%94/
