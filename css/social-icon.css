@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4404671 */
+  /* Color fonts */
+  src: 
+       url('//at.alicdn.com/t/c/font_4404671_z6esyj6h07.woff2?t=1704796470262') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4404671_z6esyj6h07.woff?t=1704796470262') format('woff'),
+       url('//at.alicdn.com/t/c/font_4404671_z6esyj6h07.ttf?t=1704796470262') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 23px;    /*字体大小自行修改 */
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-kaiyuan:before {
+  content: "\e627";
+  color: green; /* 图标颜色需要自行修改 */
+}
+
+.icon-icon_icon-jianti:before {
+  content: "\e616";
+  color: orangered; /* 图标颜色需要自行修改 */
+}
+
+.icon-Group51:before {
+  content: "\e6bc";
+}
+
+.icon-tengxunyun:before {
+  content: "\e628";
+}
+
+.icon-alibabacloud:before {
+  content: "\ea9f";
+}
+
+.icon-juejin:before {
+  content: "\e60b";
+}
+
+.icon-csdn:before {
+  content: "\e638";
+}
+
